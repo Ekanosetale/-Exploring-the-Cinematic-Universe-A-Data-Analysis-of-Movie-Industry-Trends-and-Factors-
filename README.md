@@ -1,4 +1,5 @@
 # -Exploring-the-Cinematic-Universe-A-Data-Analysis-of-Movie-Industry-Trends-and-Factors-
+# (This analysis was done using Python)
 # Executive summary
 In conclusion, this project provides valuable insights into the movie industry, covering aspects like revenue trends, budget-revenue relationships, country-specific revenue generation, and the impact of budgets on movie ratings. Despite some limitations related to original movie titles in different languages and the presence of outliers, this analysis forms a solid foundation for further research and decision-making in the film industry. Recommendations for future work may include addressing data limitations, exploring international market opportunities, and optimizing budget allocation strategies to maximize revenue and viewer satisfaction.
 This project showcases the potential of data analysis in understanding and enhancing the film industry, offering valuable insights for film industry professionals and enthusiasts alike.
