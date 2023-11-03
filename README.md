@@ -2,7 +2,6 @@
 # Executive summary
 In conclusion, this project provides valuable insights into the movie industry, covering aspects like revenue trends, budget-revenue relationships, country-specific revenue generation, and the impact of budgets on movie ratings. Despite some limitations related to original movie titles in different languages and the presence of outliers, this analysis forms a solid foundation for further research and decision-making in the film industry. Recommendations for future work may include addressing data limitations, exploring international market opportunities, and optimizing budget allocation strategies to maximize revenue and viewer satisfaction.
 This project showcases the potential of data analysis in understanding and enhancing the film industry, offering valuable insights for film industry professionals and enthusiasts alike.
-
 # Introduction
 The dataset contains information about movies, including their Titles, Release Dates, Imdb Ratings, Meta Score Ratings, Genres, Plot Overviews, Crew Details, Original Titles, Status, Original Languages, Estimated Budgets, Revenue, And Production Countries. It serves as a comprehensive source for analyzing and understanding various aspects of the movie industry. With details about movie attributes, ratings, production information, and more, the dataset can be used for a wide range of analyses and insights. 
 This dataset is a valuable resource for film industry analysts, researchers, and enthusiasts, offering a rich array of information to explore trends, preferences, and success factors in the world of cinema. It enables in-depth analyses of movies, their reception, financial aspects, and cultural contexts, making it a versatile tool for various data-driven investigations in the realm of filmmaking. 
@@ -27,11 +26,15 @@ The shape of the dataset revealed that it contained  **10178 rows** and  **12 co
 Some movie titles had their original titles in languages such as **Japanese, Chinese** and **Korean** which will not be understood by ordinary English readers without an interpreter. The **outliers** in the dataset were not replaced reason being that they were Budget and Revenue columns and sometimes there could be a significant increase in Budget depending on the economic situation at a time and the Revenue could go beyond forecast. The dataset contained a total of 141 null values and  3 missing values in revenue columns which were all replaced.
 # Data Analysis
 In the Investigation of the revenues generated across years for IMDB movies, I used an area plot to indicate which year(s) generated the highest and lowest revenues. Area plot is one visualization tool that is ideal for showing trends with dates, times and years. 
-[]()
-The relationship between revenue and budget was established using a scatter plot. A scatter plot is an ideal tool for revealing the correlation between two bi-variant numerical data.
-To ascertain the country that generated the highest revenue in movies, I grouped the dataset by the country column and summed up the revenue, then displayed the result of the top five revenue-generating countries using a bar chart.  
+[](py1.png)
+The relationship between **Revenue** and **Budget** was established using a scatter plot. A scatter plot is an ideal tool for revealing the correlation between two bi-variant numerical data.
+[](py2.png)
+To ascertain the country that generated the highest revenue in movies, I grouped the dataset by the country column and summed up the revenue, then displayed the result of the top five revenue-generating countries using a bar chart.
+[](py4.png)
 The highest rated movie and their genres were obtained by sorting the Rating Score values in descending order and selecting the top 10 scores, their Original Titles and Genres. The result was displayed in a table. Table visuals are ideal for showing information in rows and columns and for making comparisons of side–by–side comparison of data elements. 
+[](py7.png)
 To find out if movie budget affects movie rating, the top ten highest budgets were selected along with the movie rating for each and the result was displayed with a scattered plot.
+[](py6.png)
 # Insight
 1. The analysis revealed that as the years went by, the revenue generated was on the increase with a slight dropping towards the end of year 2020.
 2.  Also, there is a positive correlation between Budget and revenue.
