@@ -1,4 +1,4 @@
-![image](https://github.com/Ekanosetale/-Exploring-the-Cinematic-Universe-A-Data-Analysis-of-Movie-Industry-Trends-and-Factors-/assets/140506473/8a8404ea-1271-41c6-b5e5-ce4e31ef6d4b)# -Exploring-the-Cinematic-Universe-A-Data-Analysis-of-Movie-Industry-Trends-and-Factors-
+# -Exploring-the-Cinematic-Universe-A-Data-Analysis-of-Movie-Industry-Trends-and-Factors-
 # Executive summary
 In conclusion, this project provides valuable insights into the movie industry, covering aspects like revenue trends, budget-revenue relationships, country-specific revenue generation, and the impact of budgets on movie ratings. Despite some limitations related to original movie titles in different languages and the presence of outliers, this analysis forms a solid foundation for further research and decision-making in the film industry. Recommendations for future work may include addressing data limitations, exploring international market opportunities, and optimizing budget allocation strategies to maximize revenue and viewer satisfaction.
 This project showcases the potential of data analysis in understanding and enhancing the film industry, offering valuable insights for film industry professionals and enthusiasts alike.
@@ -6,7 +6,7 @@ This project showcases the potential of data analysis in understanding and enhan
 The dataset contains information about movies, including their Titles, Release Dates, Imdb Ratings, Meta Score Ratings, Genres, Plot Overviews, Crew Details, Original Titles, Status, Original Languages, Estimated Budgets, Revenue, And Production Countries. It serves as a comprehensive source for analyzing and understanding various aspects of the movie industry. With details about movie attributes, ratings, production information, and more, the dataset can be used for a wide range of analyses and insights. 
 This dataset is a valuable resource for film industry analysts, researchers, and enthusiasts, offering a rich array of information to explore trends, preferences, and success factors in the world of cinema. It enables in-depth analyses of movies, their reception, financial aspects, and cultural contexts, making it a versatile tool for various data-driven investigations in the realm of filmmaking. 
 # A View Of The Raw Data
-![](py1.png)
+![image](https://github.com/Ekanosetale/-Exploring-the-Cinematic-Universe-A-Data-Analysis-of-Movie-Industry-Trends-and-Factors-/assets/140506473/8a8404ea-1271-41c6-b5e5-ce4e31ef6d4b)
 # Project Overview
 This project was carried out to mark the end of Python tutorial classes and the objectives of the project are: 
 1.	Start by loading and examining the dataset. 
