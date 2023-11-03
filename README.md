@@ -28,18 +28,23 @@ Some movie titles had their original titles in languages such as **Japanese, Chi
 In the Investigation of the revenues generated across years for IMDB movies, I used an area plot to indicate which year(s) generated the highest and lowest revenues. Area plot is one visualization tool that is ideal for showing trends with dates, times and years. 
 
 ![](py1.png)
+
 The relationship between **Revenue** and **Budget** was established using a scatter plot. A scatter plot is an ideal tool for revealing the correlation between two bi-variant numerical data.
 
 ![](py2.png)
+
 To ascertain the country that generated the highest revenue in movies, I grouped the dataset by the country column and summed up the revenue, then displayed the result of the top five revenue-generating countries using a bar chart.!!
 
 ![](py4.png)
+
 The highest rated movie and their genres were obtained by sorting the Rating Score values in descending order and selecting the top 10 scores, their Original Titles and Genres. The result was displayed in a table. Table visuals are ideal for showing information in rows and columns and for making comparisons of side–by–side comparison of data elements. 
 
 ![](py7.png)
+
 To find out if movie budget affects movie rating, the top ten highest budgets were selected along with the movie rating for each and the result was displayed with a scattered plot.
 
 ![](py6.png)
+
 # Insight
 1. The analysis revealed that as the years went by, the revenue generated was on the increase with a slight dropping towards the end of year 2020.
 2.  Also, there is a positive correlation between Budget and revenue.
