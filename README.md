@@ -27,6 +27,7 @@ Some movie titles had their original titles in languages such as **Japanese, Chi
 # Data Analysis
 In the Investigation of the revenues generated across years for IMDB movies, I used an area plot to indicate which year(s) generated the highest and lowest revenues. Area plot is one visualization tool that is ideal for showing trends with dates, times and years. 
 [](py1.png)
+![](py1.png)
 The relationship between **Revenue** and **Budget** was established using a scatter plot. A scatter plot is an ideal tool for revealing the correlation between two bi-variant numerical data.
 [](py2.png)
 To ascertain the country that generated the highest revenue in movies, I grouped the dataset by the country column and summed up the revenue, then displayed the result of the top five revenue-generating countries using a bar chart.
